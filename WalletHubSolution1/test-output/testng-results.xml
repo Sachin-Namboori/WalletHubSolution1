@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84571" started-at="2021-04-17T20:18:06 IST" finished-at="2021-04-17T20:19:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84571" started-at="2021-04-17T20:18:06 IST" finished-at="2021-04-17T20:19:31 IST">
+      <class name="Assignment2.ReviewAndTest">
+        <test-method status="PASS" signature="ReviewAndPost()[pri:0, instance:Assignment2.ReviewAndTest@23bb8443]" name="ReviewAndPost" duration-ms="43535" started-at="2021-04-17T20:18:47 IST" finished-at="2021-04-17T20:19:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReviewAndPost -->
+      </class> <!-- Assignment2.ReviewAndTest -->
+      <class name="Assignment1.LoginAndPost">
+        <test-method status="PASS" signature="loginAndPost()[pri:0, instance:Assignment1.LoginAndPost@4148db48]" name="loginAndPost" duration-ms="40919" started-at="2021-04-17T20:18:06 IST" finished-at="2021-04-17T20:18:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndPost -->
+      </class> <!-- Assignment1.LoginAndPost -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
